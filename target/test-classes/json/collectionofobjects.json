@@ -1,0 +1,16 @@
+[
+{
+
+"name":"Sravani",
+"rollNo":26,
+"isTester":"true",
+"hobbies":["practicing yoga","cooking"]
+}
+,
+{
+"name":"joy",
+"rollNo":2,
+"isTester":"false",
+"hobbies":["walking","playing"]
+}
+]
